@@ -49,9 +49,8 @@ Vous avez maintenant une base pour travailler.
 # Modalités de notation
 
 - un projet global noté
-- 3 TP suivis notés de 3h précédés d'une intro de maximum 45 minutes
-  - 1er : vendredi 15 octobre
-  - 2nd : mercredi 8 décembre
-  - 3ème : mercredi 15 décembre
+- 2 TP notés de 3h précédés d'une intro de maximum 45 minutes
+  - 1er : mercredi 8 décembre
+  - 2nd : mercredi 15 décembre
 - la dernière séance > `Jeudi 11 Janvier 2022 de 13h30 à 15h30` < Il y aura un **QCM d'une heure** qui constituera la note finale de cet enseignement
 - nous profiterons du temps restant pour que je vous donne des conseils afin de finaliser les projets.
