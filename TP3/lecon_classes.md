@@ -1,30 +1,4 @@
-# TP2
-
-Veillez à bien travailler dans les conditions décrites dans le [Readme](../README.md) de ce dépôt github.  
-
-Vous avez un fichier ouvert dans `C:\MAMP\htdocs` avec la base html suivante :  
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
-```
-
-**Tous** le reste ne sera que du code PHP.
-Vous n'aurez **pas** à écrire du HTML si ce n'est comme ceci :  
-```php
-echo "<maBalise> mesTrucs </maBalise>";
-```
-___
-
-## Introduction
+# Introduction
 
 Dans ce TP nous allons voir un nouveau type de variable assez spéciale : **Les Classes**.  
 Je vous donnerai le squelette des classes et je vous demanderai uniquement de coder la partie logique (les fonctions et les déclarations de variables).
