@@ -23,12 +23,6 @@ Vous n'aurez **pas** à écrire du HTML si ce n'est comme ceci :
 echo "<maBalise> mesTrucs </maBalise>";
 ```
 
-Les exercices à **écrire et laisser** dans votre fichier sont indiqués par une flèche `=>`  
-
-**A la fin de la séance** : Vous aurez à m'envoyer par mail votre fichier nommé `NOM_PRENOM.php`.  
-Voici mon mail : `ncondomitti@ucly.fr`  
-**ATTENTION : HEURE MAX == 17h35. Après cette heure je n'accepterais pas votre TP**
-
 ___
 ## Exercice 1 : Les variables
 
