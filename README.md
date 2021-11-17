@@ -48,7 +48,7 @@ Vous avez maintenant une base pour travailler.
 
 # Modalités de notation
 
-- un projet global noté
+- Un devoir sur table : `mercredi 01 décembre 2021 de 15h30 à 17h30`
 - 2 TP notés de 3h précédés d'une intro de maximum 45 minutes
   - 1er : mercredi 8 décembre
   - 2nd : mercredi 15 décembre

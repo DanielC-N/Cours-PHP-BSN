@@ -8,9 +8,7 @@ Vous créerez un dossier "objets" dans lequel vous mettrez vos fichiers où sero
 Cela devra s'organiser comme suit :  
 ```bash
 .
-├── handle.php  (à faire)
-├── index.php   (fourni)
-├── index.css   (fourni)
+├── handle.php  (fourni)
 ├── objets      (à faire)
 │   ├── ClasseUn.php
 │   ├── ClasseDeux.php
